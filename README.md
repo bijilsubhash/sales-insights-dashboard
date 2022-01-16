@@ -6,4 +6,4 @@ An interactive dashboard using mysql sales data built on Power BI.
 - **sales_insights.pbix**: powerbi dashboard file
 ## Technologies Used
 - mySQL
-- PowerBI
+- Power BI
